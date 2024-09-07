@@ -1,0 +1,16 @@
+{
+  "name": "backend-login",
+  "version": "1.0.0",
+  "description": "simple backend using login",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alfred dsouza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.6.1",
+    "zod": "^3.23.8"
+  }
+}
